@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Birthday Surprise</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&family=Pacifico&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.9.3/dist/confetti.browser.min.js"></script>
+
+</head>
+
+<body>
+
+<div id="countdownPage">
+
+    <h1 class="main-title">
+        ~ Bí mật nhỏ ~
+    </h1>
+
+    <p class="subtitle">
+        Just for you, on your special day!
+    </p>
+
+    <div id="countdown"></div>
+
+    <div id="giftBox">
+        🎁
+    </div>
+
+</div>
+
+<div id="birthdayPage" class="hidden">
+
+    <h1 class="birthday-title">
+        🎉 HAPPY BIRTHDAY 🎉
+    </h1>
+
+    <div id="typingText"></div>
+
+</div>
+
+<audio id="birthdayMusic">
+    <source src="nhạc.mp3" type="audio/mpeg">
+</audio>
+
+<script src="script.js"></script>
+
+</body>
+</html>
