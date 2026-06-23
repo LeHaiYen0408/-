@@ -22,7 +22,7 @@ document.getElementById("memoryPhoto");
 const birthdayMessage =
 `Chúc mừng sinh nhật 🥳
 Mong rằng tuổi mới sẽ mang đến cho anh thật nhiều niềm vui, sức khỏe, thành công và những điều tuyệt vời nhất!
-Cảm ơn vì đã chơi Play Together nhé ! Để chúng ta có thể gặp nhau.
+Thật vui vì chúng ta có thể quen nhau hehehe!
 Hy vọng món quà nhỏ này sẽ khiến anh mỉm cười 🎂✨ ~ Have a nice day ~ `;
 
 function updateCountdown(){
