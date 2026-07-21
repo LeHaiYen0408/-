@@ -1,5 +1,5 @@
 const unlockDate =
-new Date("2026-08-02T00:00:00");
+new Date("2026-07-21T00:00:00");
 
 const countdown =
 document.getElementById("countdown");
@@ -21,9 +21,9 @@ document.getElementById("memoryPhoto");
 
 const birthdayMessage =
 `Chúc mừng sinh nhật 🥳
-Mong rằng tuổi mới sẽ mang đến cho anh thật nhiều niềm vui, sức khỏe, thành công và những điều tuyệt vời nhất!
-Thật vui vì chúng ta có thể gặp và quen nhau kkk!
-Hy vọng món quà nhỏ này sẽ khiến anh mỉm cười 🎂✨ ~ Have a nice day ~ `;
+Mong rằng tuổi 21 sẽ mang đến cho anh thật nhiều niềm vui, sức khỏe, thành công và những điều tuyệt vời nhất!
+Em làm cái web này vì muốn là người đầu tiên chúc mừng sinh nhật người đẹp :3
+Hy vọng món quà nhỏ này sẽ khiến anh vui ạ !!! 🎂✨ ~ Have a nice day ~ `;
 
 function updateCountdown(){
 
