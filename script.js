@@ -1,5 +1,5 @@
 const unlockDate =
-new Date("2026-07-21T00:00:00");
+new Date("2026-08-02T00:00:00");
 
 const countdown =
 document.getElementById("countdown");
